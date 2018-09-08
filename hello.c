@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main()
 {
-printf("hello hii");
-
-printy("run java programmas") }
+  printf("hello hii");
+  printy("run java programmas") 
+}  
